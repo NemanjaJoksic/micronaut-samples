@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: micronautSamples
+netty:
+  default:
+    allocator:
+      max-order: 3
+
+logger:
+  levels:
+    root: INFO
